@@ -1,2 +1,3 @@
-/cache/
-/config/development/
+/app/compiled
+.idea/
+/app/config/config.php
